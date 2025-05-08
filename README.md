@@ -6,8 +6,6 @@ Scripts, dados agregados e documentação da Iniciação Científica Júnior (CN
 > Este README funciona também como **guia de interpretação** dos arquivos resultantes.
 
 ## 1. Visão Geral
-
-## 1. Visão Geral
 Este repositório contém arquivos derivados do banco de dados **ICJ_CNPQ_2010_2023_LIMPO.xlsx**, que registra todas as bolsas de Iniciação Científica Júnior concedidas pelo CNPq entre 2010 e 2023. Os dados originais foram consolidados em duas tabelas‑fato para facilitar análises comparativas e integrações com outras bases (INEP, IBGE, etc.).
 
 | Arquivo | Descrição rápida |
